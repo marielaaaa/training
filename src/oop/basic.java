@@ -18,9 +18,10 @@ public class basic {
 		//declare the class with a variable to call attributes within that class
 		//This is called instantiating an object
 		Person  d = new Person();
+		//define properties
 		d.firstname = "Mariel";
 		d.lastname = "Medianesta";
-		
+		//Abstraction or get info from that object
 		d.first();
 		d.last();
 		
